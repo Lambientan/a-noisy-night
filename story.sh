@@ -5,8 +5,8 @@
 #
 #A short spooky story, it has alternative endings and allow user to choose
 #their own path.
-#I will not be commenting every echo line of code
 #I spent way too much time in this... wAAAAy too much time...
+#Dont read it from here, you'll spoil it!
 
 parte=0 #variable to keep track of where we are in the story
 hasGun=false #variable to check if character has gun or not and run story accordingly
